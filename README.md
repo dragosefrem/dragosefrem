@@ -18,12 +18,3 @@ During my years of study I've worked and developed skills with the following (no
 On this profile I keep personal or important projects I've worked on. I've organised my repositories in organisations. As such, more of my projects can be viewed here:
 
 <p align="left"> <a href="https://github.com/efrem-upt" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/KutvJU2.png" alt="upt-projects" width="200" height="200"/> </a> <a href="https://github.com/efrem-hs" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/s0UdHUH.png" alt="cntlr-projects" width="200" height="200"/> </a> </p>
-
-
-### Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragosefrem&show_icons=true&locale=en&layout=compact" alt="dragosefrem" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragosefrem&show_icons=true&locale=en" alt="dragosefrem" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragosefrem&" alt="dragosefrem" /></p>
